@@ -1,0 +1,3 @@
+files:
+  - source: /resource/MesaSecurity_*.txt
+    translation: /resource/MesaSecurity_%language%.txt
