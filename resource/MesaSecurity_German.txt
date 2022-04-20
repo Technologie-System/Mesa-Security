@@ -1,10 +1,10 @@
 "lang"
 {
-	"language"	"English"
+	"language"	"French"
 	"tokens"
 	{
-		"MesaSecurity_chapter1_title"	"A Regular Day"
-		"MesaSecurity_chapter2_title"	"Power Outage"
-		"MesaSecurity_chapter3_title"	"Alone In The Building"
+		"MesaSecurity_chapter1_title"	"Une Journée Ordinaire"
+		"MesaSecurity_chapter2_title"	"Coupure De Courant"
+		"MesaSecurity_chapter3_title"	"Seul Dans L'Immeuble"
 	}
 }
