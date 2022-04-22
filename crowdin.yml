@@ -3,3 +3,5 @@ files:
     translation: /%language%/Mod/resource/MesaSecurity_%language%.txt
   - source: English/Story/*.md
     translation: /%language%/Story/%original_file_name%
+  - source: /English/Maps/Ideas.md
+    translation: /%language%/Maps/%original_file_name%
