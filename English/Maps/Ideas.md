@@ -11,7 +11,7 @@
 
 * Third Map:
   * The Protagonist arrives in front of the de Facto building and enters from the back.
-    * So you have to create a building.
+    * So, we have to create a building.
 
 * Fourth Map:
   * The Protagonist enters, puts on his bulletproof vest, his uniform with the Facto logo and takes his gun: (A Glock).
