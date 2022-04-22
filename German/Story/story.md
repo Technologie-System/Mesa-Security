@@ -13,7 +13,7 @@ Andrew wakes up in the streetcar, gets off the streetcar, walks through the city
 But there is a power outage. So Andrew goes down to -3 and turns the power back on.
 
 #### Chapter 3:
-But, when he goes upstairs, everyone on the first floor and floors 1, 2 and 3 (the only levels accessible without a badge) are dead. Se
+But, when he goes upstairs, everyone on the first floor and floors 1, 2 and 3 (the only levels accessible without a badge) are dead.
 
 ***
 
