@@ -1,6 +1,6 @@
 ﻿# Histoire
 
-L’histoire se passe dans la ville de Mesa en Arizona.
+L’histoire se passe dans la ville de New Mesa en Californie. 
 
 Notre protagoniste, Andrew Henderson, ancien Caporal de l’US Army, va travailler chez Facto, une entreprise de comptabilité.
 
