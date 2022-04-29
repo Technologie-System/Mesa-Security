@@ -1,6 +1,6 @@
 ﻿# History
 
-The story takes place in the city of Mesa, Arizona.
+The story takes place in the city of New Mesa, California.
 
 Our protagonist, Andrew Henderson, a former Corporal in the US Army, goes to work at Facto, an accounting firm.
 
