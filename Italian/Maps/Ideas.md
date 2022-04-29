@@ -10,7 +10,7 @@
     * So, we need to create a living city like Half-Life 2.
 
 * Third Map:
-  * The Protagonist arrives in front of the de Facto building and enters from the back.
+  * The Protagonist arrives in front of the Facto building and enters from the back.
     * So, we have to create a building.
 
 * Fourth Map:
