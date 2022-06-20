@@ -1,15 +1,18 @@
+// Made with XBLAH's Modding tool.
+// Download it at https://github.com/jean-knapp/windows-source-modding-tool/releases
+
 gameinfo
 {
 	game	"Mesa Security"
 	title	"Mesa Security"
 	title2	""
 	type	"singleplayer_only"
-	gamedata	"bin/halflife2.fgd"
+	gamedata	"halflife2.fgd"
 	icon	"resource/icon"
 	mapbase_core	"1"
 	filesystem
 	{
-		steamappid	"243730"
+		steamappid	"220"
 		searchpaths
 		{
 			game+mod	"|gameinfo_path|custom/*"
@@ -51,7 +54,7 @@ gameinfo
 	advcrosshair	"0"
 	nomodels	"1"
 	developer	"TS"
-	developer_url	"https://github.com/Technologie-System"
+	developer_url	"https:"
 	manual	""
 	nodegraph	"1"
 	instancepath	""
