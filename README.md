@@ -19,10 +19,6 @@ Director: [Thibault Savenkoff]
 
 Scriptwrite: Amogus sus megasussy impostor
 
-[EN]: https://forms.gle/5Fru3n9HPX1QC8PHA
-[FR]: https://forms.gle/1k32ATVoT3njMkwA7
-[panel]: https://github.com/orgs/Technologie-System/projects/2
-
 ***
 
 ### <span style="color:red">Caution:</span>
@@ -30,4 +26,5 @@ Scriptwrite: Amogus sus megasussy impostor
 
 [EN]: https://forms.gle/5Fru3n9HPX1QC8PHA
 [FR]: https://forms.gle/1k32ATVoT3njMkwA7
+[panel]: https://github.com/orgs/Technologie-System/projects/2
 [Thibault Savenkoff]: https://github.com/Thibault-Savenkoff
