@@ -46,7 +46,7 @@
   * Après avoir remis le courant, Lily appelle Andrew.
     * Il faut ainsi faire la deuxième map, mais en lumière.
 
-#### Chapitre 3:
+#### Chapitre 3 :
 * Première Map :
   * Andrew monte au rez-de-chaussée pour voir si tous va bien. Mais, quand Andrew remonte au rez-de-chaussé, il voit que tout le monde est mort.
     * Il faut donc reprendre le hall mais ajouter :
@@ -54,5 +54,10 @@
       * Du sang.
 
 * Deuxième Map :
-  * Andrew va dans la salle de sécurité et trouve le garde qui était devant les portes (Celui de droite) et parle avec lui.
-    * Donc, il faut reprendre la salle de sécurité, mais mettre le garde.
+  * Andrew va dans la salle de sécurité et trouve le garde qui était devant les portes (Celui de droite) mort.
+    * Donc, il faut reprendre la salle de sécurité.
+
+#### Chapitre 4 :
+* Première Map :
+  * Andrew va au premier étage, et découvre des zombies et des résistants dans la salle de sécurité.
+    * Donc, il faut donc, faire le premier étage, placer les zombies et les résistants.
