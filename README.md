@@ -3,6 +3,10 @@ Mesa Security is a Source Mod. You play Andrew Henderson, a former U.S. Army cor
 
 ***
 
+What's Up ?
+
+You can check what we are doing currently with this [panel].
+
 You can help us by [translating](https://crwd.in/mesa-security) the mod.
 
 Help us write Mesa Security: [EN] or [FR]
@@ -13,3 +17,4 @@ Director: Thibault Savenkoff
 
 [EN]: https://forms.gle/5Fru3n9HPX1QC8PHA
 [FR]: https://forms.gle/1k32ATVoT3njMkwA7
+[panel]: https://github.com/orgs/Technologie-System/projects/2
