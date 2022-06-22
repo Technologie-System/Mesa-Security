@@ -7,6 +7,8 @@ What's Up ?
 
 You can check what we are doing currently with this [panel].
 
+***
+
 You can help us by [translating](https://crwd.in/mesa-security) the mod.
 
 Help us write Mesa Security: [EN] or [FR]
