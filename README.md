@@ -17,7 +17,7 @@ Help us write Mesa Security: [EN] or [FR]
 
 Director: [Thibault Savenkoff]
 
-Scriptwrite: Amogus sus megasussy impostor
+Scriptwrite: [Thibault Savenkoff] & [SonofPala
 
 ***
 
@@ -28,3 +28,4 @@ Scriptwrite: Amogus sus megasussy impostor
 [FR]: https://forms.gle/1k32ATVoT3njMkwA7
 [panel]: https://github.com/orgs/Technologie-System/projects/2
 [Thibault Savenkoff]: https://github.com/Thibault-Savenkoff
+[SonofPala]: https://github.com/SonofPala
