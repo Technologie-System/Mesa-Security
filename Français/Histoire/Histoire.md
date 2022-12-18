@@ -79,13 +79,13 @@ ils voyent et entendent le livreur de pizza dire :
 > "Bonjour, j'ai 2 quatre fromages pour un certain-"
 
 Et bam, une explosion celle qu'Andrew avait entendue tout à l'heure.
-Et qui a coupé le courant.
+Et qui a fait sauter le courant.
 Mais, qui est c'est cette personne...
 ***To Be Continued In Few Chapters.***
 
 ***
 
-#### Chapitre 7 - Allo ?
+#### Chapitre 7 - Allo ? :
 Nos protagonistes sont dans l'ascenseur soudains, un coup de téléphone retentit.
 Et au bout du fil c'est l'armée et surtout les anciens collègues de d'Andrew.
 Ils disent qui sont arrivées et qu'ils l'attendent à l'entrée.

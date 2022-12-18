@@ -58,14 +58,14 @@ They see and hear the pizza guy say,
 > "Hello, I have 2 four cheeses for a certain-"
 
 And bam, an explosion that Andrew heard earlier.
-And cut the power.
+And blew the power.
 I'm sorry because the easter egg only work in the version with the name of the chapter.
 But, who is this person...
 ***To Be Continued In Few Chapters.***
 
 ***
 
-#### Chapter 7 - Hello?
+#### Chapter 7 - Hello?:
 Our protagonists are in the elevator suddenly, a phone call rings.
 And at the end of the line is the army and especially Andrew’s former colleagues.
 They say who arrived and they’re waiting at the entrance.
