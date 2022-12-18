@@ -8,7 +8,7 @@ Notre protagoniste, Andrew Henderson, ancien Caporal de l’US Army, va travaill
 
 #### Chapitre 1 - Une Journée Ordinaire : 
 Andrew se réveille dans le métro, descend du métro, marche dans la ville jusqu'à la mairie, va à l'arrière et entre dans la salle de sécurité du rez-de-chaussée.
-IL s'équipe (Arme, Gilet pare-balles et l'uniforme de la ville.) et il va dans le hall pour accéder au troisième étage via l'ascenseur.
+Il s'équipe (Arme, Gilet pare-balles et l'uniforme de la ville.) et il va dans le hall pour accéder au troisième étage via l'ascenseur.
 Il entre et "va au troisième étage".
 
 ***
