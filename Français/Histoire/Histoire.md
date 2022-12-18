@@ -1,44 +1,44 @@
 ﻿# Histoire
 
-L’histoire se passe dans la ville de New Mesa en Californie. 
+L’histoire se passe dans la ville de New Mesa au USA. 
 
-Notre protagoniste, Andrew Henderson, ancien Caporal de l’US Army, va travailler chez Facto, une entreprise de comptabilité.
+Notre protagoniste, Andrew Henderson, ancien Caporal de l’US Army, va travailler à la Marie.
 
 ***
 
 #### Chapitre 1 - Une Journée Ordinaire : 
-Andrew se réveille dans le métro, descend du métro, marche dans la ville jusqu'à l'immeuble de Facto, va à l'arrière de l’immeuble et entre dans la salle de sécurité du rez-de-chaussée.
-Andrew s'équipe (Arme, Gilet pare-balles et l'uniforme de Facto.) et Andrew va dans le hall pour accéder au troisième étage via l'ascenseur.
-Andrew entre et "va au troisième étage".
+Andrew se réveille dans le métro, descend du métro, marche dans la ville jusqu'à la mairie, va à l'arrière et entre dans la salle de sécurité du rez-de-chaussée.
+IL s'équipe (Arme, Gilet pare-balles et l'uniforme de la ville.) et il va dans le hall pour accéder au troisième étage via l'ascenseur.
+Il entre et "va au troisième étage".
 
 ***
 
 #### Chapitre 2 - Coupure De Courant :
 Mais, il y a une coupure de courant.
-Alors, Andrew appuie sur le bouton d'urgence et Andrew demande à l'électricienne (Lily) ce qui ne va pas.
-Et en fait, c'était seulement le courant qui a sauté donc, Lily remet le courant et elle dit que c'était bon en appelle Andrew.
-Et, Andrew remonte au rez-de-chaussée pour voir si "tout va bien" ..
+Alors, Andrew appuie sur le bouton d'urgence et il demande à l'électricienne (Lily) ce qui ne va pas.
+Et en fait, c'était seulement le courant qui a sauté donc, Lily remet le courant et elle dit que c'était bon en appellent Andrew.
+Et, il remonte au rez-de-chaussée pour voir si "tout va bien"😉.
 
 ***
 
 #### Chapitre 3 - Seul Dans l'Immeuble :
 En remontant avec l'ascenseur au rez-de-chaussée pour voir si tout va bien.
 Andrew découvre qu'ils ont été "attaqués", tout le monde est mort.
-Andrew appelle la police pour demander des renforts et des aides médicales.
-Puis, Andrew se dirige vers la salle de sécurité pour se réarmer.
-Enfin, Andrew part au premier étage avec l'ascenseur du hall.
+Il appelle la police pour demander des renforts et des aides médicales.
+Puis, il se dirige vers la salle de sécurité pour se réarmer.
+Enfin, il part au premier étage avec l'ascenseur du hall.
 
 ***
 
 #### Chapitre 4 - Les Problèmes Commence :
 Après être entré dans l'étage tout est normal, sauf qu'en entrant dans un bureau, Andrew découvre que tout le monde s'est transformé en zombie.
-Alors, Andrew va dans la salle de sécurité de l'étage et découvre deux comptables et un agent de sécurité.
+Alors, il va dans la salle de sécurité de l'étage et découvre deux comptables et Alyson, une agent de sécurité.
 Puis, ils partent voir s'il ne reste pas de personnes à sauver.
 
 ***
 
 #### Chapitre 5 - Xen Attaque !!! :
-Au premier étage, il y a le service audit, donc entretient client et employée.
+Au premier étage, il y a le service compta.
 Donc, ils traversent l'étage en recherche du survivant même si un tas de zombies les embêtent.
 Leurs objectifs ici et de remettre les courants.
 Alors, non ça ne sera pas comme ça pour tous les étages, sinon ça devient redondant.
@@ -52,7 +52,7 @@ Et donc, il doit lancer une bombe artisanale fait en assemblent deux grenades fr
 Petit easter egg, s'il fabrique la bombe avec deux grenades flash :
 ça tue les zombies mais pas le projecteur et donc, il y a aussi une explosion dans le film.
 Donc, on doit faire un film de 5 minutes et s'il dépasse 4m50 :
-son collègue rentre dans la pièce et essaye de tous les tués mais ils se font tuer.
+Alyson rentre dans la pièce et essaye de tous les tués mais ils se font tuer.
 Puis, après ils retournent dans l'ascenseur et vont au 2ème étage.
 
 ***
@@ -61,7 +61,7 @@ Puis, après ils retournent dans l'ascenseur et vont au 2ème étage.
 Au deuxième étage, il y a la cantine.
 Mais, c'est bizarre aucun zombie dans cet étage.
 Où sont-ils ?
-Donc, il avance mais, rien on voit juste le trou par lequel est tomber l'armoire.
+Donc, ils avancent mais, rien on voit juste le trou par lequel est tomber l'armoire.
 Et qui est en réalité est tombée de bien plus haut.
 Mais, sinon rien.
 Et donc, quand ils vont dans les frigos :
@@ -78,7 +78,7 @@ ils voyent et entendent le livreur de pizza dire :
 
 > "Bonjour, j'ai 2 quatre fromages pour un certain-"
 
-Et bam, une explosion celle qu'Andrew avait entendue tout à l'heure.
+Et bam, l'explosion celle qu'Andrew avait entendue tout à l'heure.
 Et qui a fait sauter le courant.
 Mais, qui est c'est cette personne...
 ***To Be Continued In Few Chapters.***
