@@ -1,4 +1,4 @@
-# Mesa Security
+![Logo](https://github.com/Technologie-System/Mesa-Security/blob/master/Mesa%20Security.png?raw=true "Pretty")
 Mesa Security is a Source Mod. You play Andrew Henderson, a former U.S. Army corporal.
 
 ***
@@ -21,10 +21,8 @@ Help us write Mesa Security: [EN] or [FR]
 
 Director: [Thibault Savenkoff]
 
-Scriptwrite: [Thibault Savenkoff] & [SonofPala]
+Scriptwriters: [Thibault Savenkoff] & [SonofPala]
 
-[French]: https://github.com/Technologie-System/Mesa-Security/tree/Languages/Fran%C3%A7ais
-[English]: https://github.com/Technologie-System/Mesa-Security/tree/Languages/English
 [EN]: https://forms.gle/5Fru3n9HPX1QC8PHA
 [FR]: https://forms.gle/1k32ATVoT3njMkwA7
 [panel]: https://github.com/orgs/Technologie-System/projects/2
