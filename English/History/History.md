@@ -7,7 +7,7 @@ Our protagonist, Andrew Henderson, former Corporal of the US Army, will work at 
 ***
 
 #### Chapter 1 - An Ordinary Day: 
-Andrew wakes up on the subway, gets off the subway, walks through the city to the town hall, goes to the back and enters the security room on the ground floor.. He equips himself (Weapon, Bulletproof vest and the uniform of the city.) and he goes into the lobby to access the third floor via the elevator.. He comes in and "goes to the third floor".
+Andrew wakes up on the subway, gets off the subway, walks through the city to the town hall, goes to the back and enters the security room on the ground floor. He equips himself (Weapon, Bulletproof vest and the uniform of the city.) and he goes into the lobby to access the third floor via the elevator.. He comes in and "goes to the third floor".
 
 ***
 
