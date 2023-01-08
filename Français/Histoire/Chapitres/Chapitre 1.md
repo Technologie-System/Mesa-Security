@@ -14,8 +14,7 @@
 
 *Puis, son arrêt est annoncé :*
 
-
-> Prochaine Arrêt Centre-Ville de New Mesa.
+> Prochaine Arrêt : Centre-Ville de New Mesa.
 
 *Il attend que le métro s'arrête.*
 
