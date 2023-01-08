@@ -2,7 +2,7 @@
 ## Cinematique
 *Andrew a sa tête vers le sol et ouvre petit à petit ses yeux.*
 
-*Il se reveille regarde autour de lui, mais voit flou.*
+*Il se reveille, regarde autour de lui, mais voit flou.*
 
 *Se met la main au visage, il se frotte les yeux et il ne voit plus flou.*
 
