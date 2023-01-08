@@ -40,7 +40,9 @@
 
 *Devant la porte, il y a un paillason, et il y a marqué :*
 
-> Chapitre 1 : Une Journée Ordinaire
+> Chapitre 1
+
+> Une Journée Ordinaire
 
 ## Fin de la cinematique
 
