@@ -15,7 +15,7 @@
 *Ducoup, Andrew appuie sur le bouton d'urgence pour appeller Lily.*
 *Le titre du chapitre est au-dessus du bouton d'urgence*
 
-> Coupure de Courant
+> Chapitre 2 - Coupure de Courant
 
 *L'appel :*
 
