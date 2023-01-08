@@ -2,7 +2,7 @@
 ## Cinematique (Juste la suite de fin du 2 : Il n'y a pas de coupure en faite.)
 *Sur les portes est marquée :*
 
-> Chapitre 3 - Y'a Quelqu'un ?
+> Y'a Quelqu'un ?
 
 *Et le titre s'efface quand les portes s'ouvre*
 
