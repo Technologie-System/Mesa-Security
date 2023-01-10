@@ -5,7 +5,7 @@
 ***
 
 ## You’re on the **Game** *branch*,
-### Here, there are the **Game** to install in the *steam/steamapps/sourcemods* folder.
+### Here, there are the **Game** to install in the *<code>steam/steamapps/sourcemods</code>* folder.
 
 ***
 
