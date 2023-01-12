@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture" "logo/MesaSecurity"
+	"$alphatest" 1
+	"$translucent" 1
+}
