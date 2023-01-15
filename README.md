@@ -9,6 +9,17 @@
 
 ***
 
+# Soon, You'll be able to check Mesa Security's Website,
+
+# With Normally:
+
+* Dev Blogs,
+* Discord Link,
+* Ideas Suggestion
+* and more things.
+
+***
+
 ### You can check the Mesa Security Making Off in *[French]* and *~~English~~* (Translation not done).
 
 ***
