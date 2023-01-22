@@ -4,14 +4,14 @@
 
 ***
 
-# You’re on the **Images** *branch*,
-## Here, there are **screenshots** and **logos** of the **game**.
+## You’re on the **Images** *branch*,
+### Here, there are **screenshots** and **logos** of the **game**.
 
 ***
 
-# But soon, You'll be able to check Mesa Security's Website,
+# Soon, You'll be able to check Mesa Security's Website,
 
-# With Normally:
+## With Normally:
 
 * Dev Blogs,
 * Discord Link,
@@ -46,4 +46,3 @@
 [panel]: https://github.com/orgs/Technologie-System/projects/2
 [Thibault Savenkoff]: https://github.com/Thibault-Savenkoff
 [SonofPala]: https://github.com/SonofPala
-[Detail]: https://github.com/Technologie-System/Mesa-Security/blob/master/PROBLEM.md
