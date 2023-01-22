@@ -1,12 +1,12 @@
 ![Logo](https://github.com/Technologie-System/Mesa-Security/blob/Images/Mesa%20Security.png?raw=true "Pretty")
 
-# All projects are suspended because my PC is broken.
-
 ### **Mesa Security** is a **Source Engine Game**. You play **Andrew Henderson**, a former **U.S. Army corporal**.
 
 ***
 
-# Soon, You'll be able to check Mesa Security's Website,
+# The ***"game"*** part is suspended: [Detail]
+
+# But soon, You'll be able to check Mesa Security's Website,
 
 # With Normally:
 
@@ -43,3 +43,4 @@
 [panel]: https://github.com/orgs/Technologie-System/projects/2
 [Thibault Savenkoff]: https://github.com/Thibault-Savenkoff
 [SonofPala]: https://github.com/SonofPala
+[Detail]: https://github.com/Technologie-System/Mesa-Security/blob/master/PROBLEM.md
