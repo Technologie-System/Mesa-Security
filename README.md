@@ -4,12 +4,14 @@
 
 ***
 
-## You’re on the **Images** *branch*,
-### Here, there are **screenshots** and **logos** of the **game**.
+# You’re on the **Images** *branch*,
+## Here, there are **screenshots** and **logos** of the **game**.
 
 ***
 
-# Soon, You'll be able to check Mesa Security's Website,
+# The ***"game"*** part is suspended: [Detail]
+
+# But soon, You'll be able to check Mesa Security's Website,
 
 # With Normally:
 
@@ -46,3 +48,4 @@
 [panel]: https://github.com/orgs/Technologie-System/projects/2
 [Thibault Savenkoff]: https://github.com/Thibault-Savenkoff
 [SonofPala]: https://github.com/SonofPala
+[Detail]: https://github.com/Technologie-System/Mesa-Security/blob/master/PROBLEM.md
