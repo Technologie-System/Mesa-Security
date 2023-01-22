@@ -9,8 +9,6 @@
 
 ***
 
-# The ***"game"*** part is suspended: [Detail]
-
 # But soon, You'll be able to check Mesa Security's Website,
 
 # With Normally:
