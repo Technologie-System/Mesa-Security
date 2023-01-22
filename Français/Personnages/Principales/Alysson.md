@@ -1,5 +1,5 @@
 # Alysson :
-* Alison Bell
+* Alysson Bell
 * Née le 12 Octobre 1998.
 * Elle est d'origine anglo/française.
 ## Description physique :
