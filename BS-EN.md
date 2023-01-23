@@ -1,3 +1,5 @@
+# For us there are two version of Blue Shift:
+
 ### Half-Life:Blue Shift: [Wikipedia] or [VDC]
 ### [Black Mesa - Blue Shift]
 
