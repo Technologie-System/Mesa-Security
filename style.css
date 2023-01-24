@@ -10,10 +10,9 @@
 
 body
 {
-    background: #00B4DB;  /* fallback for old browsers */
-    background: -webkit-linear-gradient(to right, #0083B0, #00B4DB);  /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, #0083B0, #00B4DB); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-
+    background: #5b80a4;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #3498db, #5b80a4);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #3498db, #5b80a4); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
 
 p
@@ -29,25 +28,56 @@ h1
     text-shadow: 3px 3px 10px black;
 }
 
+b
+{
+    font-family: 'Logirent', sans-serif;
+    font-size: 1.05em;
+    font-weight: bold;
+    color: #FF8008;
+    text-shadow: 3px 3px 10px black;
+}
+
+.link
+{
+    font-family: 'Logirent', sans-serif;
+    font-weight: bold;
+    color: #FF8008;
+    text-shadow: 3px 3px 10px black;
+}
+
+.link-BS
+{
+    font-family: 'Logirent', sans-serif;
+    font-weight: bold;
+    color: #1884e5;
+    text-shadow: 3px 3px 10px black;
+}
+
+.link-Discord
+{
+    font-family: 'Logirent', sans-serif;
+    font-weight: bold;
+    color: #5865f2;
+    text-shadow: 3px 3px 10px black;
+}
+
+.characters
+{
+    font-family: 'Logirent', sans-serif;
+    font-weight: bold;
+    color: olivedrab;
+    text-shadow: 3px 3px 10px black;
+}
+
 .links
 {
-    font-family: 'Logirent';
+    font-family: 'Logirent', sans-serif;
     font-weight: bold;
     font-size: 1.5em;
     text-decoration: none;
     padding: 1px 10px 2px;
     color: #FF8008;
     text-shadow: 3px 3px 10px black;
-}
-
-.Pres
-{
-    padding: 20px;
-    border-style: solid;
-    border-width: 5px;
-    border-radius: 10px;
-    display: table;
-    background-color: #0087a5;
 }
 
 .banniere {
