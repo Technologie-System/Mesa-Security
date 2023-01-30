@@ -1,11 +1,11 @@
 ![Logo](https://github.com/Technologie-System/Mesa-Security/blob/Images/Mesa%20Security.png?raw=true "Pretty")
 
-### **Mesa Security** is a **Source Engine Game**. You play **Andrew Henderson**, a former **U.S. Army corporal**.
+### **Mesa Security** is a **Source Engine Game**. You play **Alysson Bell**, a former **U.S. Army major**.
 
 ***
 
 ## You’re on the **Website** *branch*,
-### So, check ours ~~website~~ (Not done).
+### So, check ours [website].
 
 ***
 
@@ -35,3 +35,4 @@
 [panel]: https://github.com/orgs/Technologie-System/projects/2
 [Thibault Savenkoff]: https://github.com/Thibault-Savenkoff
 [SonofPala]: https://github.com/SonofPala
+[website]: https://technologie-system.github.io/Mesa-Security/
