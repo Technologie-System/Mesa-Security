@@ -1,6 +1,6 @@
 ![Logo](https://github.com/Technologie-System/Mesa-Security/blob/Images/Mesa%20Security.png?raw=true "Pretty")
 
-### **Mesa Security** is a **Source Engine Game**. You play **Andrew Henderson**, a former **U.S. Army corporal**.
+### **Mesa Security** is a **Source Engine Game**. You play **Alysson Bell**, a former **U.S. Army major**.
 
 ***
 
