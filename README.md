@@ -9,14 +9,7 @@
 
 ***
 
-# Soon, You'll be able to check Mesa Security's Website,
-
-# With Normally:
-
-* Dev Blogs,
-* Discord Link,
-* Ideas Suggestion
-* and more things.
+### The [Website] is now available!
 
 ***
 
@@ -46,3 +39,4 @@
 [panel]: https://github.com/orgs/Technologie-System/projects/2
 [Thibault Savenkoff]: https://github.com/Thibault-Savenkoff
 [SonofPala]: https://github.com/SonofPala
+[Website]: https://technologie-system.github.io/Mesa-Security/
