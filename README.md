@@ -11,14 +11,9 @@
 
 # The ***"game"*** part is suspended: [Detail]
 
-# But soon, You'll be able to check Mesa Security's Website,
+***
 
-# With Normally:
-
-* Dev Blogs,
-* Discord Link,
-* Ideas Suggestion
-* and more things.
+### The **[Website]** is now available!
 
 ***
 
@@ -49,3 +44,4 @@
 [Thibault Savenkoff]: https://github.com/Thibault-Savenkoff
 [SonofPala]: https://github.com/SonofPala
 [Detail]: https://github.com/Technologie-System/Mesa-Security/blob/master/PROBLEM.md
+[Website]: https://technologie-system.github.io/Mesa-Security/
