@@ -1,20 +1,22 @@
 ![Logo](https://github.com/Technologie-System/Mesa-Security/blob/Images/Mesa%20Security.png?raw=true "Pretty")
 
-### **Mesa Security** is a **Source Engine Game**. You play **Alysson Bell**, a former **U.S. Army major**.
+### *Mesa Security* is a *Source Engine Game*. You play *Alysson Bell*, a former *U.S. Army major*.
 
 ***
 
-## The development of the game is ***suspended***.
+## The development of the game is *suspended*.
 
-### **Mesa Security** is a big project. I'm alone on this project and I don't have an enough experience for developing an so huge game.
+### *Mesa Security* is a big project. I'm alone on this project and I don't have an enough experience for developing an so huge game.
 
-### So, I prefer to create a **small** mod. (It's better to create a beautiful lil' project than a horrible big project)
+### So, I prefer to create a *small* mod.
 
-### I **don't** like the HL2 universe, so I'm going to create a **[Black Mesa]**'s mod.
+(It's better to create a beautiful lil' project than a horrible big project)
+
+### I *don't* like the HL2 universe, so I'm going to create a *[Black Mesa]*'s mod.
 
 ***
 
-### The **[Website]** is now available!
+### The *[Website]* is now available!
 
 ***
 
@@ -34,9 +36,9 @@
 
 ***
 
-## **Director**: *[Thibault Savenkoff]*
+## *Director*: *[Thibault Savenkoff]*
 
-## **Scriptwriters**: *[Thibault Savenkoff]* & *[SonofPala]*
+## *Scriptwriters*: *[Thibault Savenkoff]* & *[SonofPala]*
 
 [French]: https://github.com/Technologie-System/Mesa-Security/tree/Languages/Fran%C3%A7ais
 [EN]: https://forms.gle/5Fru3n9HPX1QC8PHA
