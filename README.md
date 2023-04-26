@@ -4,7 +4,13 @@
 
 ***
 
-### The ***"game"*** part is suspended: [Detail]
+## The development of the game is ***suspended***.
+
+### **Mesa Security** is a big project. I'm alone on this project and I don't have an enough experience for developing an so huge game.
+
+### So, I prefer to create a **small** mod. (It's better to create a beautiful lil' project than a horrible big project)
+
+### I **don't** like the HL2 universe, so I'm going to create a **[Black Mesa]**'s mod.
 
 ***
 
@@ -40,3 +46,4 @@
 [SonofPala]: https://github.com/SonofPala
 [Detail]: https://github.com/Technologie-System/Mesa-Security/blob/master/PROBLEM.md
 [Website]: https://technologie-system.github.io/Mesa-Security/
+[Black Mesa]: https://store.steampowered.com/app/362890/Black_Mesa/
